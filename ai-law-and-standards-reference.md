@@ -3,7 +3,8 @@
 > **⚠️ Disclaimer:** This is a fictional case study portfolio created for educational purposes. This specific document, however, is a generic professional reference and is not tied to the fictional organisation used elsewhere in this portfolio. It summarises real, publicly available laws, regulations, and standards as understood at the time of writing (June 2026). It is provided for educational and portfolio purposes only and is **not legal advice**. Laws and standards in this space are evolving rapidly — always verify current obligations and deadlines against primary sources (official gazettes, regulator publications, and standards bodies) before relying on this document for a real compliance decision.
 
 **Document Type:** Standalone professional reference, applicable beyond this portfolio
-**Prepared by:** Anju Karun · AIGP (AI Governance Professional)
+**Prepared by:** *Karun · AIGP (AI Governance Professional)*
+
 **Last Updated:** June 2026
 
 ---
@@ -197,4 +198,4 @@ This space changes quickly enough that any AI governance reference document has 
 
 ---
 
-*Author: Anju Karun · AIGP (AI Governance Professional)*
+*Karun · AIGP (AI Governance Professional)*
