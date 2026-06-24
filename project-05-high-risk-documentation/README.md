@@ -54,4 +54,4 @@ The human oversight and monitoring procedure is what keeps the conformity declar
 
 ---
 
-*Author: Anju Karun · AIGP (AI Governance Professional)*
+*Karun · AIGP (AI Governance Professional)*
