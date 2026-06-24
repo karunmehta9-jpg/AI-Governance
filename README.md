@@ -26,8 +26,11 @@ The projects draw on two primary frameworks throughout:
 ├── project-03-responsible-ai-policy/      # Policy, principles, and operating model
 ├── project-04-incident-response/          # AI failure scenario, timeline, and root cause analysis
 ├── project-05-high-risk-documentation/    # EU AI Act conformity documentation pack
+├── reference-library/                     # Cross-portfolio reference layer (see below)
 └── README.md                              # This file
 ```
+
+This repository is deliberately not five identically-shaped folders. Projects 1 through 5 each work through a specific system at a specific stage of its lifecycle. Sitting above them, the `reference-library/` folder is a sixth, structurally different element: two companion documents that don't belong to any single system, but instead map the whole portfolio against the IAPP AIGP Body of Knowledge and against the EU AI Act, NIST AI RMF, ISO/IEC 42001, and the OECD AI Principles side by side. Most governance portfolios stop at showing the work; this one also shows the work organised against the standards it is meant to satisfy.
 
 ---
 
@@ -54,6 +57,7 @@ A short version of the thread:
 | 3 | [Responsible AI Policy & Operating Model](./project-03-responsible-ai-policy/) | NIST AI RMF (Govern) | Policy, review process, and operating model |
 | 4 | [AI Incident Response & Regulatory Escalation](./project-04-incident-response/) | NIST AI RMF (Manage) · EU AI Act | Incident timeline + root cause analysis |
 | 5 | [High-Risk AI Documentation & Conformity Pack](./project-05-high-risk-documentation/) | EU AI Act (Articles 9–17) | Full conformity documentation, two systems |
+| — | [Reference Library](./reference-library/) | IAPP AIGP BoK · EU AI Act · NIST AI RMF · ISO/IEC 42001 · OECD | AIGP knowledge map + regulatory/standards crosswalk |
 
 ---
 
@@ -105,5 +109,4 @@ Beyond the specific skills listed in each project's own README, the portfolio as
 
 Built to demonstrate that AI governance competence is operational, not theoretical — and that a governance programme should be judged by whether its artefacts could actually survive contact with a regulator, an auditor, or a board, not by whether they look complete on the page.
 
-Karun · AIGP (AI Governance Professional)
-Thanks to Youtube , AI Professionals, AI tools, AIGP for educating related to all AI matters.
+**Author:** Anju Karun · AIGP (AI Governance Professional)
