@@ -105,4 +105,5 @@ Beyond the specific skills listed in each project's own README, the portfolio as
 
 Built to demonstrate that AI governance competence is operational, not theoretical — and that a governance programme should be judged by whether its artefacts could actually survive contact with a regulator, an auditor, or a board, not by whether they look complete on the page.
 
-**Author:** Anju Karun · AIGP (AI Governance Professional)
+Karun · AIGP (AI Governance Professional)
+Thanks to Youtube , AI Professionals, AI tools, AIGP for educating related to all AI matters.
