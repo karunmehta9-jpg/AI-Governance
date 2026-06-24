@@ -57,4 +57,4 @@ A few points of broader industry context that an AIGP-credentialed professional 
 
 ---
 
-*Author: Anju Karun · AIGP (AI Governance Professional)*
+*Karun · AIGP (AI Governance Professional)*
