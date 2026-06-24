@@ -51,4 +51,4 @@ The governance review memo then converts that structured uncertainty into someth
 
 ---
 
-*Author: Anju Karun · AIGP (AI Governance Professional)*
+*Author: Karun · AIGP (AI Governance Professional)*
